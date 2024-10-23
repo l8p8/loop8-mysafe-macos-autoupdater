@@ -1,0 +1,1 @@
+# loop8-mysafe-macos-autoupdateer

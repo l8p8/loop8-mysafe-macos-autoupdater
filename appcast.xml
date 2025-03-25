@@ -3,18 +3,31 @@
     <channel>
         <title>MySafe</title>
         <item>
-            <title>0.3.2</title>
-            <pubDate>Sat, 02 Nov 2024 02:06:50 +0400</pubDate>
-            <sparkle:version>219</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <title>0.3.5</title>
+            <pubDate>Tue, 25 Mar 2025 19:14:22 +0400</pubDate>
+            <sparkle:version>266</sparkle:version>
+            <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/l8p8/loop8-mysafe-macos-autoupdater/releases/download/v0.3.2/MySafe.dmg" length="36973825" type="application/octet-stream" sparkle:edSignature="0OBuvB1JzEobMVfpUVGwiYijpIJu0H4oTgHCSDcJjqZHYbUMSlgc8KtgoUwYEUlfhBRF6Yue9cK2aMLwtijlDQ=="/>
-            <description><![CDATA[
-                       <h2>What's New in Version 3.0.2</h2>
-                       <ul>
-                           <li>Bug fixes and optimizations.</li>
-                       </ul>
-                   ]]></description>
+            <enclosure url="https://github.com/l8p8/loop8-mysafe-macos-autoupdater/releases/download/v0.3.2/MySafe.dmg" length="37370466" type="application/octet-stream" sparkle:edSignature="b6/HsTTB5cBemkeimbZWgpUGoCYrLdvM2i/jBRGDKXe7gsy3aNMPWAKdqhKmM38s2QMFpAP9NzUTHAA7nj8jAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://l8p8.github.io/loop8-mysafe-macos-autoupdater/MySafe266-7.delta" sparkle:deltaFrom="7" length="32121282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="UQ+Cy2TA28WnHcmo7+3V8ypS17NgZYs1YVQ3GDFItrryOHZANeGzzeCerYyajOR5OPCK/P/cEk5lAJZBVf/0CA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.4</title>
+            <pubDate>Tue, 25 Mar 2025 14:19:44 +0400</pubDate>
+            <sparkle:version>127</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="Loop8.zip" length="84323060" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>0.1.2</title>
+            <pubDate>Mon, 13 Jan 2025 13:08:05 +0400</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://l8p8.github.io/l8p8-agent-macos-autoupdater/Loop8%20Agent.zip" length="3964733" type="application/octet-stream" sparkle:edSignature="8e5H1CI0aq2/MrTCEVkJf6P8JDJFkS7K7TyuE05FVDjsGThBUyDNh+5Y2FJChYDeC8sdNdMOAF8VMKOO05w6BQ=="/>
         </item>
     </channel>
 </rss>

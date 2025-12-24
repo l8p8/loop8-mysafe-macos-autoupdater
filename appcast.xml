@@ -3,12 +3,12 @@
     <channel>
         <title>MySafe</title>
         <item>
-            <title>0.3.8</title>
-            <pubDate>Wed, 09 Jul 2025 20:28:34 +0400</pubDate>
-            <sparkle:version>272</sparkle:version>
-            <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+            <title>0.41</title>
+            <pubDate>Wed, 24 Dec 2025 12:41:48 +0400</pubDate>
+            <sparkle:version>284</sparkle:version>
+            <sparkle:shortVersionString>0.41</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/l8p8/loop8-mysafe-macos-autoupdater/releases/download/v0.3.8/MySafe.dmg" length="38843492" type="application/octet-stream" sparkle:edSignature="N0I05Zvnt6IS2TgLEVHLbr21hkiBEBGUfqd1n6dzDOmnVcok7Npvjhc3JUoqBlbDbdjPzq8yVJhI/L80IuxMBg=="/>
+            <enclosure url="https://github.com/l8p8/loop8-mysafe-macos-autoupdater/releases/download/v0.3.8/MySafe.dmg" length="39356123" type="application/octet-stream" sparkle:edSignature="OL5Quf/AvabHrjefic1rkrOtGy1Ubc4TEO73QNiYVGx8oYQMij/1klsC/IkY2DrH6ArealAA2q2XS2yOrIMKBQ=="/>
         </item>
     </channel>
 </rss>
